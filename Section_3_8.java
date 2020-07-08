@@ -33,6 +33,6 @@ public class Section_3_8 {
             a = b;
             b = temp;
         }
-        System.out.println("Your number after being sorting are = " + a + " " +  b + " " + c);
+        System.out.println("Your numbers after being sorted are = " + a + " " +  b + " " + c);
     }
 }
